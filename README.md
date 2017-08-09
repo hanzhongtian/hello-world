@@ -1,3 +1,3 @@
 # hello-world
-this is the first repository on github//
-sup fucking nerds
+this is the first repository on github
+		sup fucking nerds
